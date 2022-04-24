@@ -1,40 +1,38 @@
-# Weather
+# Tiempo
 
-Weather App Project developed for the Platzi "Manipulating DOM" course. The project is assigned without any detail on implementation.
+Proyecto Weather App desarrollado para el curso de Platzi "Manipulación de DOM". El proyecto se asigna sin ningún detalle sobre la ejecución.
 
-## Project URL
+## URL del proyecto
 
-🚀 You can check the project working in the following link: https://wfercanas.github.io/Weather/
+🚀 Puedes consultar el proyecto funcionando en el siguiente enlace: https://wfercanas.github.io/Weather/
 
-## Project Description
+## Descripción del Proyecto
 
-Weather Application that uses the [Open Weather API](<(https://openweathermap.org/)>) to show current and forecast data. In the App you can look for any city, select a city from a predefined favorite list and add or remove from it new cities.
+Aplicación meteorológica que utiliza [Open Weather API](<(https://openweathermap.org/)>) para mostrar datos actuales y de previsión. En la aplicación puede buscar cualquier ciudad, seleccionar una ciudad de una lista de favoritos predefinida y agregar o eliminar nuevas ciudades.
 
-This app does not control user data or has a backend that stores its data, so all the cities added or removed from the favorite list will last only until you refresh the page.
+Esta aplicación no controla los datos del usuario ni tiene un backend que almacena sus datos, por lo que todas las ciudades agregadas o eliminadas de la lista de favoritos durarán solo hasta que actualice la página.
 
-## Main Objective
+## Objetivo principal
 
-The intention of this project is to practice DOM Manipulation. Here you must fetch data from an API and present that information in a responsive layout. Additionally, the app enables de user to interact with a search bar to look for new cities and redefine a favorite cities list.
+La intención de este proyecto es practicar la manipulación DOM. Aquí debe obtener datos de una API y presentar esa información en un diseño receptivo. Además, la aplicación permite al usuario interactuar con una barra de búsqueda para buscar nuevas ciudades.
 
-## Technologies used
+## Tecnologías utilizadas
 
-This project was developed using HTML, CSS and JS Vanilla.
+Este proyecto fue desarrollado utilizando HTML, CSS y JS Vanilla.
 
-## Special Challenges
+## Desafíos especiales
 
-1. Fetch an API depending on the data you want to retrieve about certain city.
-2. The app requieres a considerable amount of functions, so structuring the repository as clean and organized as possible is key for easy progression.
-3. The app works around a few state variables. Proper function designing and their import/export as modules lets you control the whole app interactivity without much complexity.
+1. Obtenga una API según los datos que desee recuperar sobre cierta ciudad.
+2. La aplicación requiere una cantidad considerable de funciones, por lo que estructurar el repositorio de la manera más limpia y organizada posible es clave para una fácil progresión.
 
-## Key JavaScript Concepts Used
+## Conceptos clave de JavaScript utilizados
 
 1. fetch()
 2. append(), remove()
 3. addEventListener()
-4. modules
+4. módulos
 
-## Acknowledgements
+## Agradecimientos
 
-- To [@jonalvarezz](https://twitter.com/jonalvarezz) and [@platzi](https://twitter.com/platzi) for this amazing course 💚.
-- Also to [Open Weather](https://openweathermap.org/) for giving access to FREE usage of their API.
-- Finally, to [Adin Yanuar](https://dribbble.com/adinyanuar7), whose [design published](https://dribbble.com/shots/15323804-Weather-Conceptual-App-Design) in Dribbble is the foundation of this app.
+- A [@jonalvarezz](https://twitter.com/jonalvarezz) y [@platzi](https://twitter.com/platzi) por este increíble curso 💚.
+- También a [Open Weather](https://openweathermap.org/) por brindar acceso al uso GRATUITO de su API.
